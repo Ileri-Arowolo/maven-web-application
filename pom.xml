@@ -13,8 +13,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<name>Loreon Technologies</name>
+		<url>http://loreon.io/</url>
 	</organization>
 
 	<properties>
@@ -95,13 +95,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>Loreon Technologies Releases Nexus Repository</name>
 	      <url>http://50.18.240.202:8081/repository/Loreon-fe-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Loreon Technologies Snapshot Nexus Repository </name>
 	      <url>http://50.18.240.202:8081/repository/loreon-fe-snapshots/</url>
 	    </snapshotRepository>
 	    
